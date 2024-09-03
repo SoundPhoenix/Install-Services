@@ -1,0 +1,17 @@
+{
+  "name": "install-services",
+  "version": "1.0.0",
+  "description": "Way to install packages through a website instead of using a terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
